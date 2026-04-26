@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 ¡Bienvenido a mi perfil de GitHub!
 
-<!--
-**luisestrada127016/luisestrada127016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me alegra que estés aquí 🚀✨  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♂️ Sobre mí
+Mi nombre es **Luis**.  
+Actualmente estoy estudiando **programación** con el objetivo de especializarme en **ciberseguridad 🔐**.  
+Mientras tanto, trabajo como **vendedor 🛒**.  
+
+---
+
+## 🛠️ Conocimientos
+- 🐍 Python  
+- 🐙 GitHub  
+- 📂 Manejo de archivos JSON  
+
+---
+
+## 🌟 Proyectos destacados
+- [📦 Inventario de Supermercado](https://github.com/luisestrada127016/Taller_2)  
+  Sistema en Python para gestionar productos con almacenamiento en JSON.  
+
+- [🚗 Sistema para una escuela de conducción](https://github.com/luisestrada127016/Proyect_Final_Safe_Drive)  
+  Registros de estudiantes, instructores, vehículos y citas con almacenamiento JSON.  
+
+- [📄 Plantilla README](https://github.com/luisestrada127016/README_reutilizable)  
+  Borrador para futuros proyectos con comunicación clara y profesional.  
+
+---
+
+## 📚 Actualmente me estoy desarrollando en...
+- Lenguaje de programación 🐍 **Python**  
+- Manejo de repositorios 🐙 **GitHub**  
+
+---
+
+## 📫 Contacto
+- ✉️ Correo electrónico: **luisestrada127016@gmail.com**
+
+---
+
+## 🕷 Un Amigable Venico...
+> 🕷 "Un gran poder conlleva una gran responsabilidad" 🕷
+
+
