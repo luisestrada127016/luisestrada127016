@@ -41,7 +41,7 @@ Mientras tanto, trabajo como **vendedor 🛒**.
 
 ---
 
-## 🕷 Un Amigable Venico...
+## 🕷 Un Amigable Vecino...
 > 🕷 "Un gran poder conlleva una gran responsabilidad" 🕷
 
 
