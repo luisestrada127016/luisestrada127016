@@ -14,7 +14,9 @@ Mientras tanto, trabajo como **vendedor 🛒**.
 ## 🛠️ Conocimientos
 - 🐍 Python  
 - 🐙 GitHub  
-- 📂 Manejo de archivos JSON  
+- 📂 Manejo de archivos JSON
+- 🌐 HTML
+- 🎨 CSS  
 
 ---
 
