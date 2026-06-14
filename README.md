@@ -16,7 +16,8 @@ Mientras tanto, trabajo como **vendedor 🛒**.
 - 🐙 GitHub  
 - 📂 Manejo de archivos JSON
 - 🌐 HTML
-- 🎨 CSS  
+- 🎨 CSS
+- 📜 JavaScript
 
 ---
 
@@ -33,8 +34,9 @@ Mientras tanto, trabajo como **vendedor 🛒**.
 ---
 
 ## 📚 Actualmente me estoy desarrollando en...
-- Lenguaje de programación 🐍 **Python**  
-- Manejo de repositorios 🐙 **GitHub**  
+- JavaScrpt 
+- Manejo de API's
+- Manipulacion de html con JS
 
 ---
 
