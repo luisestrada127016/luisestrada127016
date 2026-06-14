@@ -6,8 +6,7 @@ Me alegra que estés aquí 🚀✨
 
 ## 🙋‍♂️ Sobre mí
 Mi nombre es **Luis**.  
-Actualmente estoy estudiando **programación** con el objetivo de especializarme en **ciberseguridad 🔐**.  
-Mientras tanto, trabajo como **vendedor 🛒**.  
+Actualmente estoy estudiando **programación** con el objetivo de especializarme en **ciberseguridad 🔐**.    
 
 ---
 
